@@ -61,3 +61,10 @@ stages{
 
  }
 }
+
+
+
+
+
+docker tag <reponame>:<tagname> <hubname>/<display name>
+docker push <hubname>/<display name>
